@@ -80,3 +80,48 @@ A Shazam-like app for audio fingerprinting and similarity analysis, supporting a
 
 ### Video Demo
 [Watch Demo](https://github.com/user-attachments/assets/e653a6b5-856f-4ca1-af2c-8bf816d91121)
+
+## Contributors
+
+<table>
+  <tr>
+        <td align="center">
+      <a href="https://github.com/YassienTawfikk" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/126521373?v=4" width="150px;" alt="Yassien Tawfik"/>
+        <br />
+        <sub><b>Yassien Tawfik</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/madonna-mosaad" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/127048836?v=4" width="150px;" alt="Madonna Mosaad"/>
+        <br />
+        <sub><b>Madonna Mosaad</b></sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/nancymahmoud1" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/125357872?v=4" width="150px;" alt="Nancy Mahmoud"/>
+        <br />
+        <sub><b>Nancy Mahmoud</b></sub>
+      </a>
+    </td>
+        </td>
+        <td align="center">
+      <a href="https://github.com/Ayatullah-ahmed" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/125223938?v=4" width="150px;" alt="Ayatullah Ahmed"/>
+        <br />
+        <sub><b>Ayatullah Ahmed</b></sub>
+      </a>
+    </td>
+    </td>
+        <td align="center">
+      <a href="https://github.com/yousseftaha167" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/128304243?v=4" width="150px;" alt="Youssef Taha"/>
+        <br />
+        <sub><b>Youssef Taha</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
