@@ -1,0 +1,15 @@
+[submodule "Multi-Channel-Signal-Viewer"]
+	path = Multi-Channel-Signal-Viewer
+	url = https://github.com/Ayatullah-ahmed/Multi-Channel-Signal-Viewer.git
+[submodule "Nyquist-Signal-Reconstructor"]
+	path = Nyquist-Signal-Reconstructor
+	url = https://github.com/Ayatullah-ahmed/Nyquist-Signal-Reconstructor.git
+[submodule "Signal-Equalizer"]
+	path = Signal-Equalizer
+	url = https://github.com/Ayatullah-ahmed/Signal-Equalizer.git
+[submodule "FT-Magnitude-Phase-Mixer"]
+	path = FT-Magnitude-Phase-Mixer
+	url = https://github.com/Ayatullah-ahmed/FT-Magnitude-Phase-Mixer.git
+[submodule "Soundprints"]
+	path = Soundprints
+	url = https://github.com/Ayatullah-ahmed/Soundprints.git
